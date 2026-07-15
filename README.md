@@ -31,15 +31,11 @@ The Caesar Cipher shifts every alphabetic character by a fixed number of positio
 
 ### Encryption Formula
 
-\[
-E(x) = (x + n) \bmod 26
-\]
+E(x) = (x + n) mod 26
 
 ### Decryption Formula
 
-\[
-D(x) = (x - n) \bmod 26
-\]
+D(x) = (x - n) mod 26
 
 Where:
 
